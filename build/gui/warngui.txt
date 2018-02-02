@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, D:\test_python_install_exe\gui.py
+missing module named posix - imported by os, D:\test_python_install_exe\gui.py
+missing module named _posixsubprocess - imported by subprocess, D:\test_python_install_exe\gui.py
+missing module named 'org.python' - imported by pickle, D:\test_python_install_exe\gui.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, D:\test_python_install_exe\gui.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\test_python_install_exe\gui.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\test_python_install_exe\gui.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\test_python_install_exe\gui.py
+missing module named 'java.lang' - imported by platform, D:\test_python_install_exe\gui.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\test_python_install_exe\gui.py
+missing module named termios - imported by tty, D:\test_python_install_exe\gui.py, getpass
+missing module named grp - imported by tarfile, shutil, D:\test_python_install_exe\gui.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, D:\test_python_install_exe\gui.py, netrc, getpass
+missing module named ce - imported by os, D:\test_python_install_exe\gui.py
+missing module named _dummy_threading - imported by dummy_threading, D:\test_python_install_exe\gui.py
+missing module named org - imported by copy, D:\test_python_install_exe\gui.py
