@@ -36,3 +36,7 @@ D:\>PIP3 install sth   // 使用python3的pip
 D:\>pip2 list   // 查看python2的模块列表
 D:\>pip3 list   // 查看python3的模块列表
 ```
+
+## python依赖集中处理方式
+* 创建一个文件requirements.txt，每一行写入需要安装的python包
+* 安装依赖：pip install -r requirements.txt
